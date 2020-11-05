@@ -11,7 +11,7 @@ const DEV = {
 }
 const SIT = {
     req: {
-        default:'http://127.0.0.1',
+        default:'http://127.0.0.1:',
     }
 }
 
